@@ -1,0 +1,1 @@
+creating a rock, sessors, paper game in python . in this game you can play as many rounds as you want and yo can choose the game type you want (random, cycler,...). you can see the score at te end of the game.
